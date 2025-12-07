@@ -6,8 +6,12 @@ An AI-based moveable robotic arm that can replicate hand movements in real time 
 #### Mechanical Design:
 Designing an arm joint using OnShape app, a parametric CAD tool, by my experience of designing 3D mechanical models.
 
+<img width="927" height="667" alt="Screenshot (578)" src="https://github.com/user-attachments/assets/c83b4a57-9e7c-4dbf-9bc2-cda81ba19f0a" />
+
 -each joint was carefully modeled to fit servo motors
 -in this design i considered torque distribution and motion range for precise control.
+
+Check out my [Robotic Joint Design](https://github.com/ShahadAljohani/Robotic-Joint-Mechanical-Design/tree/main)
 
 #### Electrical Integration:
 I integrated the electrical system using an arduino controller.
